@@ -1,0 +1,3 @@
+python -m venv myenv
+.\venv\Scripts\Activate  
+ python main.py     
